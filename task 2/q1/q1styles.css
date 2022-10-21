@@ -1,0 +1,25 @@
+.pinkblock {
+    background-color: #F5C6D6;
+    height: 100px;
+    margin: 5px;
+}
+.lightpinkblock {
+    background-color: #EE2E84;
+    height: 100px;
+    margin: 5px;
+}
+.greenblock {
+    background-color: #85CFD8;
+    height: 100px;
+    margin: 5px;
+}
+.blueblock {
+    background-color: #8DC63F;
+    height: 100px;
+    margin: 5px;
+}
+.orangeblock {
+    background-color: #E76E34;
+    height: 100px;
+    margin: 5px;
+}

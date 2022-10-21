@@ -1,0 +1,41 @@
+body{
+  color: #3c4857;
+}
+.container{
+  background-color: #e5e5e5 ;
+  width: 100%;
+  padding: 5%;
+}
+.card{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+}
+.card:hover, .card:hover .list-group-item{
+  background-color: #ea4d4b;
+  color: white;
+}
+.card:hover .btn{
+  background-color: white;
+  color: black;
+} 
+.display-3{
+  font-weight:lighter;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.btn{
+  display: inline-flex;
+  align-items: center;
+
+  text-align: center;
+  background-color: #ea4d4b ;
+  height: 1.5rem;
+  width: fit-content;
+  padding: 1.5rem;
+
+  border-radius: 5rem;
+  margin-top: 3rem;
+  color: white;
+}
